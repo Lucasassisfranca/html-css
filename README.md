@@ -15,13 +15,6 @@ Aqui você encontrará **páginas estruturadas, exercícios práticos e desafios
 
 ---
 
-## 🌐 Acesso aos exercícios
-Você pode explorar todos os exercícios e desafios clicando no link abaixo:
-
-👉 [Acesse os exercícios do curso](https://lucasassisfranca.github.io/html-css/)
-
----
-
 ## 🎯 O que aprendi
 - 🏗️ Estruturação de páginas com HTML5  
 - 🎨 Estilização com CSS3  
